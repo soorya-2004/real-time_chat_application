@@ -27,3 +27,8 @@ Real-time chat apps are widely used in customer support systems, social networks
 Integrating further tools like Redux for advanced state management or Material-UI for styling helps build scalable, visually appealing applications. Developers may also implement offline support, ensuring messages are queued and sent when connectivity is restored.
 
 Overall, building a real-time chat app with the MERN stack teaches critical skills in event-driven architecture, persistent connections, asynchronous programming, and front-end state synchronization, all of which are essential for modern web applications demanding seamless interactivity.
+
+# OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/581c2964-1ddb-43e2-a477-b34bbea484d3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/918aced3-f7ec-44e1-8ce4-af97f69a26e2" />
